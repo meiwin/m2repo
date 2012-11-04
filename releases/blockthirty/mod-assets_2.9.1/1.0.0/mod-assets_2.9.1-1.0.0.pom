@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.blockthirty</groupId>
+    <groupId>blockthirty</groupId>
     <artifactId>mod-assets_2.9.1</artifactId>
     <packaging>jar</packaging>
     <description>mod-assets</description>
     <version>1.0.0</version>
     <name>mod-assets</name>
     <organization>
-        <name>com.blockthirty</name>
+        <name>blockthirty</name>
     </organization>
     <dependencies>
         <dependency>
