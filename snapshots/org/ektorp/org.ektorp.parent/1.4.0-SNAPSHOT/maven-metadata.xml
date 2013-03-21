@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.ektorp</groupId>
+  <artifactId>org.ektorp.parent</artifactId>
+  <version>1.4.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20130321.073927</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20130321073927</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.4.0-20130321.073927-1</value>
+        <updated>20130321073927</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
